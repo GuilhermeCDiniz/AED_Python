@@ -8,3 +8,5 @@
 Análise realizada através do curso da Alura - Data Science: explorando e analisando dados.
 
 
+Foi utilizado as bibliotecas pandas, matplotlib.pyplot e seaborn para examinar um dataset de avaliações de filmes. Foram realizadas operações de leitura, cálculo de estatísticas descritivas (média, mediana), e visualizações gráficas (histogramas, boxplots, gráficos de barras) para entender a distribuição das notas, a popularidade dos filmes, e a distribuição dos filmes por língua original. Os resultados mostraram que a maioria das notas está em torno de 3.5, com a maioria dos filmes avaliados em inglês.
+
